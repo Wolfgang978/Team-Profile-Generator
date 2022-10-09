@@ -50,5 +50,5 @@ No license
   ![A picture of my working Team Profile generator in the browser.](./assets/TeamProfileGeneratorSS.png)
 
   ## Video Link
-  [Link to demonstration video](https://drive.google.com/file/d/1JScJ8b2V0p4Yw_gkzeAEqvjmmwLvoVSF/view)
+  [Link to demonstration video](https://drive.google.com/file/d/1KJP2xGz9nnSIbbI4pJjgcMPkk9pOlwYd/view)
  
